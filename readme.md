@@ -1,4 +1,6 @@
 <!-- vscode-markdown-toc -->
+# Hello World: The Game
+
 * [My first attempted capstone project](#Myfirstattemptedcapstoneproject)
 	* [Background](#Background)
 * [Gameplay](#Gameplay)
@@ -10,7 +12,7 @@
 	/vscode-markdown-toc-config -->
 <!-- /vscode-markdown-toc -->
 
-# Hello World: The Game
+
 
 ## <a name='Myfirstattemptedcapstoneproject'></a>My first attempted capstone project
 
