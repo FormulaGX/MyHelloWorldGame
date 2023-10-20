@@ -31,6 +31,7 @@ Missing features as of initial commit include:
 
 * **_COMMENTS_**, Please don't ask.
 * Improved modularity
+* Improved readability
 * Enemies
 * Random level generation
 * Gamepad input
