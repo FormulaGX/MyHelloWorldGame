@@ -1,8 +1,10 @@
-<!-- vscode-markdown-toc -->
 # Hello World: The Game
 
+![Alt text](<_media/Screenshot 2023-10-20 092415.png>)
+<!-- vscode-markdown-toc -->
 * [My first attempted capstone project](#Myfirstattemptedcapstoneproject)
 	* [Background](#Background)
+* [Features](#Features)
 * [Gameplay](#Gameplay)
 	* [Controls](#Controls)
 
@@ -27,6 +29,18 @@ The computer I originally wrote this project on failed during development, but I
 
 I may come back to this project to to clean and experiment with at a later date. However, if I decide to launch a game in the future, I would rather use a pre-made framework or a game engine.
 
+## <a name='Features'></a>Features
+
+Completed features include:
+
+* A renderer
+* 60Hz update cycle
+* Input handler
+* Spritesheet system
+* Tile mapping with a pixel map
+* Particles
+* Collision detection
+
 Missing features as of initial commit include:
 
 * **_COMMENTS_**, Please don't ask.
@@ -43,7 +57,8 @@ You're a farm boy who can shoot magic oranges.
 
 ### <a name='Controls'></a>Controls
 
-|  Action  | Keys              |
-|:--------:|-------------------|
-| Walking  | WASD or ⬆️⬅️⬇️➡️|
-| Shooting | Left Mouse Button |
+| Action | Keys              |
+|:------:|-------------------|
+|  Walk  | WASD or ⬆️⬅️⬇️➡️|
+| Sprint | Hold Shift + Walk |
+| Shoot  | Left Mouse Button |
