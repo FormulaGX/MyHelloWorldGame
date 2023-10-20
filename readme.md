@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+<!-- vscode-markdown-toc -->
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+>>>>>>> a8d9309a8be2893a49f5d943a3eff749c6a03eb3
 # Hello World: The Game
 
 ![Alt text](<_media/Screenshot 2023-10-20 092415.png>)
