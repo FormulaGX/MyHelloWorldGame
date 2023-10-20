@@ -1,4 +1,6 @@
 <!-- vscode-markdown-toc -->
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # Hello World: The Game
 
 * [My first attempted capstone project](#Myfirstattemptedcapstoneproject)
