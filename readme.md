@@ -12,8 +12,6 @@
 	/vscode-markdown-toc-config -->
 <!-- /vscode-markdown-toc -->
 
-
-
 ## <a name='Myfirstattemptedcapstoneproject'></a>My first attempted capstone project
 
 This project uses built-in Java libraries to handle rendering, keyboard and mouse input, sprites, and level generation.
