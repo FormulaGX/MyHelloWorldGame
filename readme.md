@@ -18,7 +18,7 @@
 
 ## <a name='Myfirstattemptedcapstoneproject'></a>My first attempted capstone project
 
-This project uses built-in Java libraries to handle rendering, keyboard and mouse input, sprites, and level generation.
+This is a Java 7 project that uses built-in libraries to handle rendering, keyboard and mouse input, sprites, and level generation.
 
 ### <a name='Background'></a>Background
 This is an older version of an unfinished, untitled game project I made from the ground up with Java. It was first written back in 2013 when I began learning software engineering as a hobby.
