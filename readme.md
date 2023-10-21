@@ -29,7 +29,7 @@ The farmer boy is a placeholder character I used to test the spritesheet parser.
 
 The computer I originally wrote this project on failed during development, but I was able to salvage this version from [DropBox](https://www.dropbox.com/scl/fo/k7w56rd4teayreo54wuy2/h?rlkey=5yb2pcqv2stkuaqonq02tg904&dl=0). I waned interest in further development after losing progress and moved onto other projects.
 
-I may come back to this project to to clean and experiment with at a later date. However, if I decide to launch a game in the future, I would rather use a pre-made framework or a game engine.
+I may come back to this project to clean and experiment with at a later date. However, if I decide to launch a game in the future, I would rather use a pre-made framework or a game engine.
 
 ## <a name='Features'></a>Features
 
